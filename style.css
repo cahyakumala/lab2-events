@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgreen;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+.garden {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    color: green;
+}
+
+#message {
+    font-size: 18px;
+}
+
+#plant {
+    font-size: 100px;
+    margin: 30px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+#size {
+    margin-top: 30px;
+    color: gray;
+}
